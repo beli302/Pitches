@@ -1,12 +1,12 @@
 ## Pitches
 
-<!-- ## Description
+## Description
 This is an application that allows users to use one minute wisely by submitting their one minute pitches while other users votes on them and leave comments to give feedback .
 
 ## Authors information
 By Belinda Okumu
 
-## Technology used
+<!-- ## Technology used
 * Python 3.6
 * HTML
 * Bootstrap
