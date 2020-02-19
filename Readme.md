@@ -11,13 +11,14 @@ By Belinda Okumu
 * HTML
 * Bootstrap
 
-<!-- ## Set up instractions
+## Set up instractions
 * Clone the repo
 * Edit the file
 * Install python 3.6
 * Run the test
-* Contributing
-* Pull requests are welcome.
+
+ <!-- ## Contributing
+ Pull requests are welcome.
 
 ## Contacts
 Tel: +254706313301
