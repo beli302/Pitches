@@ -17,7 +17,7 @@ By Belinda Okumu
 * Install python 3.6
 * Run the test
 
- <!-- ## Contributing
+ ## Contributing
  Pull requests are welcome.
 
 ## Contacts
@@ -25,5 +25,5 @@ Tel: +254706313301
 Email: belindashirkiz@gmail.com
 
 ## Licence
-Licensed under the MIT license. Copyright (c) 2020 News Highlight -->
+Licensed under the MIT license. Copyright (c) 2020 News Highlight
 
