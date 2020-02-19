@@ -6,12 +6,12 @@ This is an application that allows users to use one minute wisely by submitting 
 ## Authors information
 By Belinda Okumu
 
-<!-- ## Technology used
+ ## Technology used
 * Python 3.6
 * HTML
 * Bootstrap
 
-## Set up instractions
+<!-- ## Set up instractions
 * Clone the repo
 * Edit the file
 * Install python 3.6
@@ -24,5 +24,5 @@ Tel: +254706313301
 Email: belindashirkiz@gmail.com
 
 ## Licence
-Licensed under the MIT license. Copyright (c) 2020 News Highlight
- -->
+Licensed under the MIT license. Copyright (c) 2020 News Highlight -->
+
